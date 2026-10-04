@@ -1,0 +1,12 @@
+# Keil 编译产物
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.scvd
+*.bak
+*.dep
+
+# 系统文件
+.DS_Store
+Thumbs.db
