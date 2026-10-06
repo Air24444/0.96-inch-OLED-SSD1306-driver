@@ -1,4 +1,4 @@
-**[English](README_EN.md) | 中文**
+**[English](README_EN.md) Switch to English README| 中文**
 # STM32 OLED 驱动库 (STM32-OLED-Driver)
 
 ## 📖 项目简介
